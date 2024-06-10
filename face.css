@@ -1,0 +1,113 @@
+body{
+	margin: 0;
+}
+.header{
+	background-image: url(/image/final.jpg);	
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+    
+}
+
+.header-line{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    
+}
+.logo{
+	text-decoration: none;
+	color: #fff;
+	font-family: ForestSmooth-Regular;
+    font-size: 50px;
+    
+}
+
+.nav{
+	margin-left: 50px;
+    margin-right: 585px;
+}
+.nav-item{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 16px;
+    margin-right: 40px;
+    position: relative;
+    left: 50px;
+	
+}
+
+.num{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 16px;
+    
+}
+
+
+.phone-holder{
+    display: flex;
+    align-items: center;
+        
+}
+.phone-img>img{    
+    height: 20px;
+    width: 20px;
+    margin-right: 7px;
+}
+
+.phone{
+    display: flex;
+    position: fixed;
+    left: 1435px;   
+
+}
+.number{
+    margin-right: 50px;
+}
+.kn{
+    color: #000;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50px;
+    background-color: #fff;
+    justify-content: center;
+    opacity: 0.6;
+}
+@font-face {
+    font-family: ForestSmooth-Regular;
+    src: url(/fonts/ForestSmooth-Regular.ttf);
+}
+@font-face {
+    font-family: satoshi-Regular;
+    src: url(/fonts/satoshi-Regular.otf);
+}
+
+.text{    
+    color: #fff;
+    font-size: 35px;
+    text-align: center;
+    padding-left: 700px;
+    padding-top: 350px;
+}
+
+h1{
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.knopk{
+    color: #000;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 20px 30px 20px 30px;
+    border-radius: 100px;
+    background-color: #fff;
+    font-size: 20px;
+}
+
