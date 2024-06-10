@@ -1,2 +1,0 @@
-# rusenergo.ru
-rusenergo.ru
